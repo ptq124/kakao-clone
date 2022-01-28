@@ -16,6 +16,7 @@
 @import "screens/find.css";
 @import "screens/more.css";
 @import "screens/settings.css";
+@import "screens/chat.css";
 
 body {
   font-family: "Dongle", sans-serif;
@@ -27,4 +28,5 @@ body {
 }
 a {
   color: black;
+  text-decoration: none;
 }
