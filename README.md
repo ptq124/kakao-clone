@@ -11,3 +11,7 @@ position
 -absolute
 
 -relative
+
+-fixed
+
+animation
